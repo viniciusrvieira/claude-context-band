@@ -15,10 +15,11 @@ The numbers refresh when a session starts and at the end of each turn.
 In Claude Code, run:
 
 ```
-/plugin install context-band --marketplace viniciusrvieira/claude-context-band
+/plugin marketplace add viniciusrvieira/claude-context-band
+/plugin install context-band@context-band
 ```
 
-Answer `y` to add the marketplace, then pick a scope (user scope enables it in every session).
+Pick the user scope to enable it in every session.
 
 ## License
 
