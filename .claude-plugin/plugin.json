@@ -1,0 +1,1 @@
+{ "name": "context-band", "version": "0.1.0", "description": "Shows context window usage above the prompt", "license": "MIT", "types": "./types/index.d.ts" }
